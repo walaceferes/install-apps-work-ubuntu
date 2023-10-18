@@ -8,27 +8,25 @@ This shell script has been created to simplify the installation of some applicat
 
 # **How to Use the Script**
 
-## **Clone the Repository:**
+**Clone the Repository:**
 
-Copy code
 ```
 git clone https://github.com/walaceferes/install-apps-work-ubuntu.git
 ```
-Navigate to the Script Directory:
+**Navigate to the Script Directory:**
 
 ```
 cd install-apps-work-ubuntu.git/
 ```
 
-Give Execution Permission to the Script:
+**Give Execution Permission to the Script:**
 ```
 sudo chmod +x install_apps.sh
 ```
 
-Run the Script:
+**Run the Script:**
 
 ```
-
 ./install_apps.sh
 ```
 
