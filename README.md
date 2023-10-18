@@ -5,6 +5,8 @@ This shell script has been created to simplify the installation of some applicat
 * VLC Media Player
 * Sublime Text
 * VirtualBox
+* Terminator
+* Diodon
 
 # **How to Use the Script**
 
