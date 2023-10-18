@@ -21,13 +21,13 @@ cd install-apps-work-ubuntu.git/
 
 **Give Execution Permission to the Script:**
 ```
-sudo chmod +x install_apps.sh
+sudo chmod +x install-apps.sh
 ```
 
 **Run the Script:**
 
 ```
-./install_apps.sh
+./install-apps.sh
 ```
 
 The script will update the package index, install essential packages, and then proceed to install the aforementioned applications on your Ubuntu system.
